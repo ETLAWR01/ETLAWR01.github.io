@@ -37,8 +37,7 @@
       "studyType": "A.S.",
       "startDate": "2022-09-26",
       "endDate": "Present",
-      "courses": "CSC272, CSC118, MNE111, MNE112, MNE313, CSC218" [
-      ]
+      "courses": [ "CSC272, CSC118, MNE111, MNE112, MNE313, CSC218" ]
     }
   ],
   "work": [
@@ -79,6 +78,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
+    }
   ],
   "awards": [
     {

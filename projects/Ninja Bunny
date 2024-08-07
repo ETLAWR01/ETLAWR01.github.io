@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "2D-Platformer"
+date: 2024
+published: false
+labels:
+  - Python
+  - GitHub
+summary: "A platformer game that I developed for CSC 272."
+---
+
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
+Ninja Bunny is a platform game I developed using the functions built using pygame and the Python language. A true beginner project (It is not convuluted.)

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/GitHub1.png
 title: "Ninja Bunny"
 date: 2024
 published: False
@@ -14,7 +14,7 @@ summary: "A small platformer developed by me to display new technical skills."
 
 <div class="text-center p-4">
   <img width="1278px" src="../img/GitHub2.png" class="img-thumbnail">
-  <img width="200px" src="../img/GitHub1.png" class="img-thumbnail" >
+  <img width="1028px" src="../img/GitHub1.png" class="img-thumbnail" >
 </div>
 
 This was my first attempt at a platformer game using python. I used the pygame module and tiled to finish this project. Here is a snippet of the code showing how the sprites class was defined:

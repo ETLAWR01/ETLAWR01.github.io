@@ -4,7 +4,7 @@ type: project
 image: img/GitHub1.png
 title: "Ninja Bunny"
 date: 2024
-published: False
+published: True
 labels:
   - Programming
   - Tiled

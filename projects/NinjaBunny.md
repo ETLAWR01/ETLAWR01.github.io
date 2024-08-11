@@ -13,9 +13,8 @@ summary: "A small platformer developed by me to display new technical skills."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="1278px" src="../img/GitHub2.png" class="img-thumbnail">
+  <img width="200px" src="../img/GitHub1.png" class="img-thumbnail" >
 </div>
 
 This was my first attempt at a platformer game using python. I used the pygame module and tiled to finish this project. Here is a snippet of the code showing how the sprites class was defined:

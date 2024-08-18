@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: img/GitHub1.png
+title: "Whats News"
+date: 2024
+published: True
+labels:
+  - Programming
+  - HTML
+  - CSS
+summary: "A small website using RSS to create a news feed of various articles. With a functionality to allow users to save their favorite articles for later viewing."
+---
+
+<div class="text-center p-4">
+  <img width="1278px" src="../img/GitHub2.png" class="img-thumbnail">
+</div>
+
+This was my first attempt at a website. Going into the project I had little knowledge of HTML outside of using Inspect Element as a child to change the displays of websites at school. Here is a picture of the logo used for the site.
+
+

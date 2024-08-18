@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Site_Example.png
+image: img/SiteExample.png
 title: "Whats News"
 date: 2024
 published: True
@@ -13,7 +13,7 @@ summary: "A small website using RSS to create a news feed of various articles. W
 ---
 
 <div class="text-center p-4">
-  <img width="1278px" src="../img/Site_Example.png" class="img-thumbnail">
+  <img width="1278px" src="../img/SiteExample.png" class="img-thumbnail">
 </div>
 
 This was my first attempt at a website. Going into the project I had little knowledge of HTML outside of using Inspect Element as a child to change the displays of websites at school.The logo used for the site is a cartoon depiction of Caesar. This was a nod to the historical roots of newskeeping.
